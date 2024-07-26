@@ -14,14 +14,14 @@
     <main>
       <div class="grid" data-id="grid">
         <!-- Turn Indicator -->
-        <div class="turn yellow" data-id="turn">
-          <i class="fas fa-solid fa-x"></i>
-          <p>Player 1, you're up!</p>
+        <div class="turn" data-id="turn">
+          <i class="fas fa-solid fa-x yellow"></i>
+          <p class="yellow">Player 1, you're up!</p>
         </div>
 
         <!-- Dropdown menu -->
         <div class="menu" data-id="menu">
-          <button class="menu-btn" data-id="menu-button">
+          <button class="menu-btn" data-id="menu-btn">
             Actions
             <i class="fas fa-solid fa-chevron-down"></i>
           </button>
@@ -42,18 +42,18 @@
         <div id="8" class="square shadow" data-id="square"></div>
         <div id="9" class="square shadow" data-id="square"></div>
 
-        <!-- Score board -->
-        <div class="score shadow" style="background-color: var(--turquoise)">
+        <!-- Scoreboard -->
+        <div class="score shadow" style="background-color: var(--yellow)">
           <p>Player 1</p>
-          <span data-id="player1-stats">0 Wins </span>
+          <span data-id="p1-wins">0 Wins </span>
         </div>
         <div class="score shadow" style="background-color: var(--light-gray)">
           <p>Ties</p>
           <span data-id="ties">0</span>
         </div>
-        <div class="score shadow" style="background-color: var(--yellow)">
+        <div class="score shadow" style="background-color: var(--turquoise)">
           <p>Player 2</p>
-          <span data-id="player2-stats">0 Wins </span>
+          <span data-id="p2-wins">0 Wins </span>
         </div>
       </div>
     </main>
@@ -69,6 +69,6 @@
         <button data-id="modal-btn">Play again</button>
       </div>
     </div>
-    <script src="./js/index.js"></script>
+    <script src="./js/index.js" type="module"></script>
   </body>
 </html>
