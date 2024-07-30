@@ -1,4 +1,4 @@
-@import url("href=https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"rel="stylesheet");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 :root {
   --dark-gray: #1a2a32;
   --gray: #2e4756;
@@ -17,11 +17,10 @@
 }
 html,
 body {
-  height: 100%;
   background-color: var(--dark-gray);
 }
 body {
-  padding: 90px 20px;
+  padding: 50px 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
