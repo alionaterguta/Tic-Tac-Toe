@@ -8,10 +8,10 @@ The tutorial is an excellent guide that helped deepen my understanding of JavaSc
 
 If you'd like to check out the original project or follow along with the tutorial, you can find them here:
 
--- **Original** GitHub Repository: https://github.com/zachgoll/tic-tac-toe-subscriber-refactor/
+   **Original GitHub Repository:** https://github.com/zachgoll/tic-tac-toe-subscriber-refactor/
 
--- **Video Tutorial:** https://www.youtube.com/watch?v=MsnQ5uepIaE
+   **Video Tutorial:** https://www.youtube.com/watch?v=MsnQ5uepIaE
 
 ............................................................................................................
 
-This refactor has been a valuable learning experience, helping me apply TypeScript to a real-world project.
+This refactor has been a valuable learning experience.
