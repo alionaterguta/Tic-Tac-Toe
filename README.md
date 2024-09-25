@@ -12,3 +12,7 @@ The tutorial covers:
 - Section 4: Refactoring the game to React + TypeScript, explaining how to set up React from scratch and exploring the advantages of React over a Vanilla approach
 
 Many thanks go to [@zachgoll](https://github.com/zachgoll) for the tutorial and resources.
+
+Here an Img of my Tic-tac-toe Web App:
+
+![Screenshot Tic-tac-toe game](image.png)
