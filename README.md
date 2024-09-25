@@ -2,7 +2,7 @@
 
 ## This frontend web development project is based on a tutorial. It offers a great opportunity to enhance skills in HTML, CSS, JavaScript, TypeScript, and React.
 
-You can find the 🎥 tutorial here: [Watch on YouTube](https://www.youtube.com/watch?v=MsnQ5uepIaE), and the 💻 code here:[ View on GitHub.](https://github.com/zachgoll/tic-tac-toe-subscriber-refactor)
+You can find the 🎥 tutorial here: [Watch on YouTube](https://www.youtube.com/watch?v=MsnQ5uepIaE), and the 💻 original code here:[ View on GitHub.](https://github.com/zachgoll/tic-tac-toe-subscriber-refactor)
 
 The tutorial covers:
 
