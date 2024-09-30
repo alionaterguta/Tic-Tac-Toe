@@ -13,6 +13,6 @@ The tutorial covers:
 
 Many thanks go to [@zachgoll](https://github.com/zachgoll) for the tutorial and resources.
 
-Here an Img of my Tic-tac-toe Web App:
+Here an img of my Tic-tac-toe Web App:
 
 ![Screenshot Tic-tac-toe game](image.png)

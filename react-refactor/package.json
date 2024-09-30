@@ -2,11 +2,14 @@
   "name": "react-refactor",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://alionaterguta.github.io/Tic-Tac-Toe",
   "scripts": {
     "dev": "webpack serve",
     "build": "webpack",
     "build:prod": "NODE_ENV=production webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
@@ -21,6 +24,7 @@
     "@types/react": "^18.3.5",
     "@types/react-dom": "^18.3.0",
     "css-loader": "^7.1.2",
+    "gh-pages": "^6.1.1",
     "style-loader": "^4.0.0",
     "ts-loader": "^9.5.1",
     "typescript": "^5.6.2",
